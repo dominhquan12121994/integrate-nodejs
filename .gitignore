@@ -1,0 +1,15 @@
+# code editor
+.idea
+
+# public resource
+public
+dist
+
+# library
+node_modules
+
+# environment information
+.env
+
+#log
+log
